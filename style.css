@@ -1,8 +1,11 @@
 body {
+  background-image: url(./img.jpg);
+  background-size: cover;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
 .container {
+  background: rgba(255,255,255,0.9);
   max-width: 700px;
   width: 80%;
   margin: 20px auto;
